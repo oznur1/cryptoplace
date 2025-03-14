@@ -1,9 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # cryptoplace
+A cryptocurrency marketplace web application that allows users to explore the largest cryptocurrencies, view market data, and visualize price changes over time with interactive charts. 
+
+# Technologies Used
+React: Front-end library used to create the user interface.
+Axios: Used to send HTTP requests to the CoinGecko API.
+React Router: Routing library for navigating between pages.
+Google Charts: Used to create interactive line charts.
+Tailwind CSS: A CSS framework used for quick styling.
+
+# ScreenShot
+![EkranKayd2025-03-14134146-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a7025e97-028b-49f5-8749-beeb6c92b5fc)
